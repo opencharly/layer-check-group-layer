@@ -1,5 +1,7 @@
+version: 2026.232.0520
 check-group-layer:
     candy:
+        version: 2026.182.0440
         description: |
             Drop /etc/check-group-marker in the filesystem it is deployed into.
             The deployable member of the check-group R10 bed (C2-group — the externalized `group`
